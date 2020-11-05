@@ -1,0 +1,21 @@
+.card-product {
+  display: flex;
+  align-items: center;
+  background: white;
+  color: black;
+  border: 1px solid rgba(0,0,0,0.1);
+  box-shadow: 10px 10px 10px rgba(0,0,0,0.1);
+  border-radius: 5px;
+  width: 1000px;
+  margin: 30px auto;
+}
+
+.card2-description {
+  margin-left: 15px;
+}
+
+
+.container-favorites {
+  background: rgba(0,0,0,0.02);
+  padding: 80px;
+}

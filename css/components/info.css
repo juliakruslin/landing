@@ -1,0 +1,27 @@
+.cards {
+  display: flex;
+  justify-items: space-evenly;
+  text-align: center;
+  margin: 30px 20px;
+  padding: 30px;
+}
+
+.card {
+  margin: 30px;
+}
+
+.info {
+  background: rgba(0,0,0,0.002);
+  padding: 100px;
+}
+
+.h2-whygoodity {
+  margin: 0 auto;
+  padding-top: 50px;
+  text-align: center;
+  font-size: 40px;
+}
+
+.icon-info {
+  font-size: 50px;
+}
